@@ -1,0 +1,51 @@
+3-4 lakh --->>  Arrays, Strings ---> techincal test(Aptitude test)
+Infosys, TCS, Newgen, Thoughts2binary, Bravura
+
+On campus
+Just after college/ 4th yr of college
+(no hardwork)
+//One language -> Java, C++(till Recursion)(Aptitude)(Software Engineering)
+
+5-8 lakhs  --> full DSA,Compiler design, CN, SDLCs,Operating system
+
+Off campus
+
+Software Engineering/Software Dev
+-> Logical things(DSA)(60%-70%)
+-> 40% dev
+
+Fields
+Frontend - (HTML, Css, JS)- Typescript, Angular, React  // 1yr with projects
+Backend - Java-SpringBoot, Python-Django, Web-Nodejs // 1yr with projects
+Database
+Services/Middleware ->
+cloud-
+ML
+Data Science
+Devops
+Devrel
+
+java --> Maven, gradle, Kafka, docker, kubernetes
+Go - go builds, vendor
+
+Project----> End to end
+
+
+
+
+// git add.
+// git status
+// git log
+//git push/pull origin master
+//git commit -m"...."
+//git checkout -b <name>
+//git diff
+// git push/pull -f origin <branch name>
+//git pull/push upstream master
+//git remote add upstream <Link of upstream repo>
+//git remote -v
+//git branch
+//git reset --hard <commit hash>
+//gi reset --soft <commit hash>
+
+// mvn properties

@@ -10,29 +10,27 @@ public class ArrayUtils {
 //
 //        System.out.println(maxIndex(ar));
 
-        System.out.println(Arrays.toString(reverse(ar)));
 
 
 //        placeSwap(ar);
 //        System.out.println(Arrays.toString(ar));    // 2, 1 , 3, 4, 5
     }
 
-    public static void placeSwap(int[] a){
+    public static void placeSwap(int[] a, int first, int second){
 
-        int temp = a[0];
-        a[0] = a[1];
-        a[1] = temp;
+        int temp = a[first];
+        a[first] = a[second];
+        a[second] = temp;
 
-        System.out.println(Arrays.toString(a));  // 2 , 1, 3, 4, 5
     }
 
-    public static int maxIndex(int[] ar){
+    public static int maxIndex(int[] ar, int start, int end){
 
 //        Arrays.sort(ar);    // nlogn
 
         int max = 0;
 
-        for (int i = 1; i <ar.length ; i++) {
+        for (int i = 1; i <= end ; i++) {
 
             if(ar[i]>ar[max]){
                 max=i;
